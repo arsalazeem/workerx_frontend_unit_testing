@@ -1,0 +1,17 @@
+h11~=0.13.0
+pip~=21.1.2
+trio~=0.20.0
+outcome~=1.1.0
+attrs~=21.4.0
+sniffio~=1.2.0
+sortedcontainers~=2.4.0
+cffi~=1.15.0
+idna~=3.3
+wheel~=0.36.2
+cryptography~=36.0.1
+certifi~=2021.10.8
+selenium~=4.1.2
+urllib3~=1.26.8
+pycparser~=2.21
+setuptools~=57.0.0
+wsproto~=1.1.0
