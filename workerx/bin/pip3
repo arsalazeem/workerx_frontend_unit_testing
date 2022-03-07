@@ -1,4 +1,4 @@
-#!/home/arsal/PycharmProjects/workerx/workerx/bin/python
+#!/home/arsal/automation/workerx_frontend_unit_testing/workerx/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
